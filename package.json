@@ -4,9 +4,12 @@
   "description": "A minimal portfolio with Vanilla JavaScript",
   "main": "index.js",
   "scripts": {
+<<<<<<< HEAD
     "build": "webpack --mode production --config webpack.config.js",
     "dev": "webpack --config webpack.config.dev.js",
     "build:watch":"webpack --watch --config webpack.config.dev.js",
+=======
+>>>>>>> 6cf560d (:art: [ADD] Initial Commit)
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -23,6 +26,7 @@
   "bugs": {
     "url": "https://github.com/gndx/js-portfolio/issues"
   },
+<<<<<<< HEAD
   "homepage": "https://github.com/gndx/js-portfolio#readme",
   "devDependencies": {
     "@babel/core": "^7.22.5",
@@ -45,3 +49,7 @@
     "webpack-cli": "^5.1.4"
   }
 }
+=======
+  "homepage": "https://github.com/gndx/js-portfolio#readme"
+}
+>>>>>>> 6cf560d (:art: [ADD] Initial Commit)
