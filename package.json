@@ -5,11 +5,17 @@
   "main": "index.js",
   "scripts": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "build": "webpack --mode production --config webpack.config.js",
     "dev": "webpack --config webpack.config.dev.js",
     "build:watch":"webpack --watch --config webpack.config.dev.js",
 =======
 >>>>>>> 6cf560d (:art: [ADD] Initial Commit)
+=======
+    "build": "webpack --mode production --config webpack.config.js",
+    "dev": "webpack --config webpack.config.dev.js",
+    "build:watch":"webpack --watch --config webpack.config.dev.js",
+>>>>>>> 33d5861 (probando netlify)
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,7 +33,9 @@
     "url": "https://github.com/gndx/js-portfolio/issues"
   },
 <<<<<<< HEAD
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+<<<<<<< HEAD
+=======
+>>>>>>> 33d5861 (probando netlify)
   "devDependencies": {
     "@babel/core": "^7.22.5",
     "@babel/plugin-transform-runtime": "^7.22.5",
@@ -49,7 +57,10 @@
     "webpack-cli": "^5.1.4"
   }
 }
+<<<<<<< HEAD
 =======
   "homepage": "https://github.com/gndx/js-portfolio#readme"
 }
 >>>>>>> 6cf560d (:art: [ADD] Initial Commit)
+=======
+>>>>>>> 33d5861 (probando netlify)

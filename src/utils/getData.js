@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 const API = process.env.API;
 =======
 const API = 'https://randomuser.me/api/';
 >>>>>>> 6cf560d (:art: [ADD] Initial Commit)
+=======
+const API = process.env.API;
+>>>>>>> 33d5861 (probando netlify)
 
 const getData = async (id) => {
   const apiURl = id ? `${API}${id}` : API;
