@@ -1,17 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 33d5861 (probando netlify)
 import getData from '@utils/getData.js';
 import github from '@images/github.png';
 import twitter from '@images/twitter.png';
 import instagram from '@images/instagram.png';
-<<<<<<< HEAD
-=======
-import getData from '../utils/getData.js';
->>>>>>> 6cf560d (:art: [ADD] Initial Commit)
-=======
->>>>>>> 33d5861 (probando netlify)
 
 const Template = async () => {
   const data = await getData();
@@ -37,8 +27,6 @@ const Template = async () => {
         </div>
         <div class="card_social">
           <a href="https://twitter.com/gndx">
-<<<<<<< HEAD
-<<<<<<< HEAD
             <img src="${twitter}" />
           </a>
           <a href="https://github.com/gndx">
@@ -46,22 +34,13 @@ const Template = async () => {
           </a>
           <a href="https://instagram.com/gndx">
             <img src="${instagram}" />
-=======
-            <img src="../src/assets/images/twitter.png" />
-=======
             <img src="${twitter}" />
->>>>>>> 33d5861 (probando netlify)
           </a>
           <a href="https://github.com/gndx">
             <img src="${github}" />
           </a>
           <a href="https://instagram.com/gndx">
-<<<<<<< HEAD
-            <img src="../src/assets/images/instagram.png" />
->>>>>>> 6cf560d (:art: [ADD] Initial Commit)
-=======
             <img src="${instagram}" />
->>>>>>> 33d5861 (probando netlify)
           </a>
         </div>
       </div>
